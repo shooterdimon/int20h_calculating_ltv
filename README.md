@@ -1,4 +1,4 @@
-# Task 2
+# Hackaton "int20h" - Calculating LTV
 ## Installation
 ### Step 1
 To start this project, you have to clone this repository and install next libraries:
